@@ -298,5 +298,6 @@ For bug reports and feature requests related to Ultralytics software, please vis
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
   <a href="https://discord.com/invite/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-discord.png" width="3%" alt="Ultralytics Discord"></a>
 </div>
-#   M u l t i - O b j e c t - T r a c k i n g - i n - V i d e o  
+#   M u l t i - O b j e c t - T r a c k i n g - i n - V i d e o 
+ 
  
