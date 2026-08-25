@@ -1,6 +1,6 @@
-<a href="https://www.ultralytics.com" target="_blank"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
-
 # Contributing to Ultralytics Open-Source Projects
+
+[![Ultralytics logo](https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg)](https://www.ultralytics.com)
 
 Welcome! We're thrilled that you're considering contributing to our [Ultralytics](https://www.ultralytics.com) [open-source](https://github.com/ultralytics) projects. Your involvement not only helps enhance the quality of our repositories but also benefits the entire [computer vision](https://www.ultralytics.com/glossary/computer-vision-cv) community. This guide provides clear guidelines and best practices to help you get started.
 
@@ -193,6 +193,7 @@ Complying means making the **complete corresponding source code** of your projec
    - Update your `README.md` to state that the project is licensed under AGPL-3.0.
    - Include clear instructions on how to set up, build, and run your project from the source code.
    - Attribute Ultralytics YOLO appropriately, linking back to the [original repository](https://github.com/ultralytics/ultralytics). Example:
+
      ```markdown
      This project utilizes code from [Ultralytics YOLO](https://github.com/ultralytics/ultralytics), licensed under AGPL-3.0.
      ```
@@ -201,7 +202,7 @@ Complying means making the **complete corresponding source code** of your projec
 
 Refer to the [Ultralytics Template Repository](https://github.com/ultralytics/template) for a practical example structure:
 
-```
+```text
 my-yolo-project/
 │
 ├── LICENSE               # Full AGPL-3.0 license text

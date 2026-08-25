@@ -1,3 +1,7 @@
+# Multi-Object Tracking in Video
+
+<!-- markdownlint-disable MD033 -->
+
 <div align="center">
   <p>
     <a href="https://www.ultralytics.com/events/yolovision?utm_source=github&utm_medium=social&utm_campaign=yolovision26&utm_content=banner" target="_blank">
@@ -298,5 +302,6 @@ For bug reports and feature requests related to Ultralytics software, please vis
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
   <a href="https://discord.com/invite/ultralytics"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-discord.png" width="3%" alt="Ultralytics Discord"></a>
 </div>
-#   M u l t i - O b j e c t - T r a c k i n g - i n - V i d e o  
+#   M u l t i - O b j e c t - T r a c k i n g - i n - V i d e o 
+ 
  
